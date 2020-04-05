@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/riveri/Pulpit/UkladRownan/Macierz.hh
+Rozmiar.hh
+/home/riveri/Pulpit/UkladRownan/Rozmiar.hh
+Wektor.hh
+/home/riveri/Pulpit/UkladRownan/Wektor.hh
+iostream
+-
+math.h
+-
+
+/home/riveri/Pulpit/UkladRownan/Rozmiar.hh
+
+/home/riveri/Pulpit/UkladRownan/UkladRownanLiniowych.hh
+iostream
+-
+
+/home/riveri/Pulpit/UkladRownan/Wektor.hh
+Rozmiar.hh
+/home/riveri/Pulpit/UkladRownan/Rozmiar.hh
+iostream
+-
+math.h
+-
+
+/home/riveri/Pulpit/UkladRownan/main.cpp
+iostream
+-
+Wektor.hh
+/home/riveri/Pulpit/UkladRownan/Wektor.hh
+Macierz.hh
+/home/riveri/Pulpit/UkladRownan/Macierz.hh
+UkladRownanLiniowych.hh
+/home/riveri/Pulpit/UkladRownan/UkladRownanLiniowych.hh
+
