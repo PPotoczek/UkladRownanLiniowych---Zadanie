@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/UkladRownan.dir/main.cpp.o CMakeFiles/UkladRownan.dir/Macierz.cpp.o CMakeFiles/UkladRownan.dir/Wektor.cpp.o CMakeFiles/UkladRownan.dir/UkladRownanLiniowych.cpp.o  -o UkladRownan 
